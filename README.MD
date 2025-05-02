@@ -72,12 +72,13 @@ Script útil para técnicos que permite desbloquear dispositivos Android por ADB
 ---
 
 <p align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="Working on new projects" width="300" />
+  <img src="https://media.giphy.com/media/wSBJmuHPCpxwZoN1lE/giphy.gif?cid=ecf05e47jxulenzjbwxov2i68b9j044jm8ax945fx58vb5n9&ep=v1_gifs_search&rid=giphy.gif&ct=g" alt="Hacking Dev" width="300" />
 </p>
 
 <p align="center">
-  <strong>Actualmente trabajando en nuevos proyectos y mejoras 💻🚀</strong>
+  <strong>Más bots, automatización y seguridad en desarrollo... 👨‍💻🔐</strong>
 </p>
+
 
 ---
 ### 📬 Contacto
