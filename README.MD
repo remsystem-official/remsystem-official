@@ -14,7 +14,7 @@
 ### Sobre mí
 
 - Soy ingeniero en software con enfoque un actual en desarrollo **backend** y **microservicios**
-- Actualmente desarrollando un SaaS para **control de reparaciones** y una app para la **recolección de café**
+- Actualmente desarrollando un SaaS para **control de reparaciones** y mi **blog principal**
 - Apasionado por la **seguridad informática** y la creación de **bots automatizados**
 - Experiencia en **NestJS, React.js, Docker y bases de datos SQL**
 
