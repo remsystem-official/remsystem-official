@@ -5,22 +5,27 @@
 <h1 align="center">Hola, soy Eduardo MR</h1>
 
 <p align="center">
-  Desarrollador de software | Backend con NestJS | Apasionado por la ciberseguridad y la automatización
+  🚀 Desarrollador de software | Backend con NestJS | Apasionado por la ciberseguridad y automatización 🤖
 </p>
 
 ---
 
-
-### Sobre mí
-
-- Soy ingeniero en software con enfoque un actual en desarrollo **backend** y **microservicios**
-- Actualmente desarrollando un SaaS para **control de reparaciones** y mi **blog principal**
-- Apasionado por la **seguridad informática** y la creación de **bots automatizados**
-- Experiencia en **NestJS, React.js, Docker y bases de datos SQL**
+<p align="center">
+  <img src="https://media.giphy.com/media/cruO3FTeoAxjiTVxPW/giphy.gif" alt="Satoru Gojo" width="400" />
+</p>
 
 ---
 
-### Tecnologías que uso
+### 👨‍💻 Sobre mí
+
+- 🎓 Ingeniero en software con enfoque actual en desarrollo **backend** y **microservicios**
+- 🛠️ Desarrollando un SaaS de **control de reparaciones** y mi propio **blog**
+- 🔐 Apasionado por la **seguridad informática** y la creación de **bots automatizados**
+- ⚙️ Experiencia sólida con **NestJS, React.js, Docker, Git y bases de datos SQL**
+
+---
+
+### 🧰 Tecnologías que uso
 
 ![NestJS](https://img.shields.io/badge/-NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white)
 ![React](https://img.shields.io/badge/-React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
@@ -32,7 +37,7 @@
 
 ---
 
-### GitHub Stats
+### 📊 GitHub Stats
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=remsystemCorporation&show_icons=true&theme=radical" alt="GitHub Stats" />
@@ -43,7 +48,7 @@
 ### 🚀 Proyectos destacados
 
 #### 🔐 [auth-nestjs](https://github.com/remsystemCorporation/auth-nestjs)
-Sistema de autenticación completo usando NestJS. Incluye registro, login, JWT, refresh tokens y más.  
+Sistema completo de autenticación con NestJS: login, registro, JWT, refresh tokens y más.  
 ![Repo](https://img.shields.io/github/languages/top/remsystemCorporation/auth-nestjs)
 ![Stars](https://img.shields.io/github/stars/remsystemCorporation/auth-nestjs?style=social)
 ![Forks](https://img.shields.io/github/forks/remsystemCorporation/auth-nestjs?style=social)
@@ -51,7 +56,7 @@ Sistema de autenticación completo usando NestJS. Incluye registro, login, JWT, 
 ---
 
 #### 🤖 [whatsapp-ia](https://github.com/remsystemCorporation/whatsapp-ia)
-Bot de WhatsApp con IA integrada usando Web.js. Automatización de respuestas y procesamiento inteligente.  
+Bot de WhatsApp con IA usando Web.js para respuestas inteligentes automatizadas.  
 ![Repo](https://img.shields.io/github/languages/top/remsystemCorporation/whatsapp-ia)
 ![Stars](https://img.shields.io/github/stars/remsystemCorporation/whatsapp-ia?style=social)
 ![Forks](https://img.shields.io/github/forks/remsystemCorporation/whatsapp-ia?style=social)
@@ -59,22 +64,29 @@ Bot de WhatsApp con IA integrada usando Web.js. Automatización de respuestas y 
 ---
 
 #### 🔓 [ADBunlocker](https://github.com/remsystemCorporation/ADBunlocker)
-Herramienta para automatizar el desbloqueo de dispositivos Android vía ADB. Útil para técnicos y reparadores.  
+Script útil para técnicos que permite desbloquear dispositivos Android por ADB.  
 ![Repo](https://img.shields.io/github/languages/top/remsystemCorporation/ADBunlocker)
 ![Stars](https://img.shields.io/github/stars/remsystemCorporation/ADBunlocker?style=social)
 ![Forks](https://img.shields.io/github/forks/remsystemCorporation/ADBunlocker?style=social)
 
 ---
 
+<p align="center">
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="Working on new projects" width="300" />
+</p>
 
-
-### Contacto
-
-- Web: [remSystem.org](https://remsystem.org)
-- Email: support@remsystem.org
-- GitHub: [@remsystemCorporation](https://github.com/remsystemCorporation)
+<p align="center">
+  <strong>Actualmente trabajando en nuevos proyectos y mejoras 💻🚀</strong>
+</p>
 
 ---
+### 📬 Contacto
 
+- 🌐 Web: [remSystem.org](https://remsystem.org)
+- 📧 Email: support@remsystem.org
+- 💻 GitHub: [@remsystemCorporation](https://github.com/remsystemCorporation)
+
+---
 > *"La constancia supera al talento cuando el talento no se esfuerza lo suficiente."*
 
+---
