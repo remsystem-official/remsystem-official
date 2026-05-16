@@ -83,9 +83,9 @@ Script útil para técnicos que permite desbloquear dispositivos Android por ADB
 ---
 ### 📬 Contacto
 
-- 🌐 Web: [remSystem.org](https://remsystem.org)
+- 🌐 Web: [remsystem.org](https://remsystem.org)
 - 📧 Email: support@remsystem.org
-- 💻 GitHub: [@remsystemCorporation](https://github.com/remsystemCorporation)
+- 💻 GitHub: [@remsystem-official://github.com/remsystemCorporation)
 
 ---
 > *"La constancia supera al talento cuando el talento no se esfuerza lo suficiente."*
